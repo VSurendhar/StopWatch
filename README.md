@@ -1,4 +1,4 @@
-Dell Latittude 7520# Stop Watch App ⏱️
+Stop Watch App ⏱️
 
 This is a simple Android Stop Watch app built using Kotlin and the Android SDK. It features a user-friendly interface that allows users to start, stop, and reset the timer with precise time tracking (minutes, seconds, and milliseconds).
 
